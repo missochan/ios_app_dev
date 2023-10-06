@@ -46,5 +46,5 @@ Contributions to this project are encouraged. You can contribute by suggesting i
 
 ## Contact
 
-For inquiries or feedback, please feel free to reach out to me.(mailto:mschanolivia@gmail.com).
+For inquiries or feedback, please feel free to reach out to me.mailto:mschanolivia@gmail.com.
 
