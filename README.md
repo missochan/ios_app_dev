@@ -4,6 +4,8 @@
 
 This project delves into iOS app development by analyzing data sourced from the Apple App Store in 2021. The dataset, which can be accessed on Kaggle [here](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps/data), serves as the foundation for gaining valuable insights into different facets of iOS app development.
 
+I have created visualization in Tableau as well: https://public.tableau.com/views/iOSAPPDevelopment/AppHighlight?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 ## Dataset Details
 
 The dataset comprises a comprehensive range of attributes for iOS apps, including information such as app details, user ratings, pricing, genres, and more. The analysis of this dataset provides invaluable insights into various aspects of iOS app development.
